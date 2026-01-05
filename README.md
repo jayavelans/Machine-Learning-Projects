@@ -1,8 +1,6 @@
 # Machine-Learning-Projects
 Applied machine learning projects focusing on real-world datasets and model evaluation.
 
-# Machine Learning Projects
-
 This repository contains applied machine learning projects
 focused on solving real-world problems using structured
 machine learning pipelines.
